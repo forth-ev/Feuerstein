@@ -41,4 +41,4 @@
 
 ' help-key hook-key !
 
-\ Danach sollte auf CTRL+G der Hilfetest angezeigt werden1.
+\ Danach sollte auf CTRL+G der Hilfetest angezeigt werden.
